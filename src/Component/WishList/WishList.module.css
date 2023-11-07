@@ -1,0 +1,7 @@
+.item{
+    box-shadow: none;
+}
+
+.item:hover{
+    box-shadow:inset;
+}

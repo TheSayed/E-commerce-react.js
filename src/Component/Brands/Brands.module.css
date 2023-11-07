@@ -1,0 +1,9 @@
+.box{
+    border-color: none !important;
+    box-shadow: none !important;
+}
+
+.box:hover{
+    border-color: #adff2f !important;
+    box-shadow: 0px 0px 14px 6px rgba(173,255,47,1) !important;
+}
